@@ -97,6 +97,7 @@ body {
     text-decoration: none;
     height: 50px;
     border-radius: 9px;
+    /* margin-left: 5px; */
     transition: all 1s ease 0s;
 }
 
@@ -115,7 +116,7 @@ body {
 
 @media (min-width:1024px) {
     .header_menu {
-        width: 1000px;
+        width: 700px;
     }
 
     .header_link {
